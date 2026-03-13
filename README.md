@@ -1,5 +1,7 @@
 # TalentScout Hiring Assistant 🤖
 
+**Repository:** [TalentScout-Hiring-Assistance-Bot](https://github.com/rahulkumar7189/TalentScout-Hiring-Assistance-Bot)
+
 **Author:** [Rahul Kumar](https://github.com/rahulkumar7189)
 
 ## Project Overview
